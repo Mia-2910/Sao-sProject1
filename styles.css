@@ -1,0 +1,45 @@
+.header,
+.conclude{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  height: 80px;
+  background-color: lightpink;
+  font-family: Roboto, arial;
+  font-size: 16px;
+  color: rgb(229, 94, 116);
+}
+
+.middle-section{
+    align-items: center;
+    justify-content: center;
+    display: flex ;
+    transform: translate(-50%, -50%); 
+    
+  } 
+.left-section{
+  align-items: center;
+  display:flex;
+}
+.right-section{
+  align-items: center;
+  display:flex;
+}
+
+.image{
+  align-items: center;
+  display:flex;
+  height: 500px;
+  width: 700px;
+  padding-left: 300px;
+}
+
+.conclude{
+  padding-left: 250px;
+
+}
+
+  
+ 
